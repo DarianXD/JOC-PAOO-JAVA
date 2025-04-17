@@ -1,8 +1,8 @@
 .idea/
-/*.iml
+*.iml
 
-/out/
-/target/
-/build/
+out/
+target/
+build/
 
 .DS_Store
